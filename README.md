@@ -29,4 +29,9 @@ NFTDrive は PWA に対応しているのか
 PWA（Standalone）と通常時のindexedDBは倫理的に別領域となるのか
 Credentials向けに namespace を現時点で取得しておくか？
 # symbol-wallet
+<<<<<<< HEAD
+# symbol-web-wallet
+=======
+# symbol-wallet
+>>>>>>> refs/remotes/origin/main
 # symbol-web-wallet
